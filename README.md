@@ -3,7 +3,7 @@ Fica frio
 
 Ordem para o projeto funcionar:
 
-//npm install 
+//npm install
 
 
 
